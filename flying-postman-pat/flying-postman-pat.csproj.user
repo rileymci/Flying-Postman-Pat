@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\littl\Desktop\CAB201\Assignment1\</StartWorkingDirectory>
+    <StartArguments>mail.txt airbus-a220-spec.txt 20:00 -o itinerary.txt</StartArguments>
+  </PropertyGroup>
+</Project>

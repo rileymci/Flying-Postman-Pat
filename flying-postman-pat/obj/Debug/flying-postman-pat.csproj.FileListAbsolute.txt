@@ -1,0 +1,14 @@
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.csprojAssemblyReference.cache
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.csproj.CoreCompileInputs.cache
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.exe.config
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.exe
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.pdb
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.exe
+C:\Users\littl\source\repos\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.pdb
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.exe.config
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.exe
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\bin\Debug\flying-postman-pat.pdb
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.csprojAssemblyReference.cache
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.csproj.CoreCompileInputs.cache
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.exe
+D:\Downloads\CAB201-Assignment-2019-S1_n10255737\flying-postman-pat\flying-postman-pat\obj\Debug\flying-postman-pat.pdb

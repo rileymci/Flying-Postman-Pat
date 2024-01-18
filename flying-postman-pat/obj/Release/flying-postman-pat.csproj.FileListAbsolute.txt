@@ -1,0 +1,7 @@
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\bin\Release\flying-postman-pat.exe.config
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\bin\Release\flying-postman-pat.exe
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\bin\Release\flying-postman-pat.pdb
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\obj\Release\flying-postman-pat.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\obj\Release\flying-postman-pat.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\obj\Release\flying-postman-pat.exe
+C:\Users\littl\Desktop\flying-postman-pat\flying-postman-pat\obj\Release\flying-postman-pat.pdb
